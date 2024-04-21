@@ -2,7 +2,7 @@ module example.com/dummy
 
 go 1.18
 
-require github.com/envoyproxy/envoy v1.24.0
+require github.com/envoyproxy/envoy v1.24.10
 
 require google.golang.org/protobuf v1.30.0 // indirect
 

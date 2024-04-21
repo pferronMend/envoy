@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/cncf/xds/go v0.0.0-20230112175826-46e39c7b9b43
-	github.com/envoyproxy/envoy v1.24.0
+	github.com/envoyproxy/envoy v1.24.10
 )
 
 require (
