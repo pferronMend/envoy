@@ -108,9 +108,9 @@ grpcio-tools==1.55.0 \
     --hash=sha256:f900bce944b5777effecb9078e5fd3a224e42b1ca33c7546c3d043f9ef9eb4e8 \
     --hash=sha256:fbbe2bee4af93c03ba064d40199dbf38067d2aa6ae98dfa0687a08ee980ebfd5
     # via -r requirements.in
-idna==3.2 \
-    --hash=sha256:14475042e284991034cb48e06f6851428fb14c4dc953acd9be9a5e95c7b6dd7a \
-    --hash=sha256:467fbad99067910785144ce333826c71fb0e63a425657295239737f7ecd125f3
+idna==3.7 \
+    --hash=sha256:028ff3aadf0609c1fd278d8ea3089299412a7a8b9bd005dd08b9f8285bcb5cfc \
+    --hash=sha256:82fee1fc78add43492d3a1898bfa6d8a904cc97d8427f683ed8e798d07761aa0
     # via requests
 protobuf==4.23.1 \
     --hash=sha256:2036a3a1e7fc27f973fa0a7888dce712393af644f4695385f117886abc792e39 \
